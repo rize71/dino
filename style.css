@@ -61,7 +61,8 @@ body {
 }
 
 #block {
-  background-image: url("https://www.svgrepo.com/show/59213/bug.svg");
+  background-image: url("images/bug.png");
+  background-color: rebeccapurple;
   width: 20px;
   height: 20px;
   position: absolute;
@@ -78,8 +79,8 @@ body {
   100% {
     left: -20px;
   }
+}
 
-  p {
-    text-align: center;
-  }
+p {
+  text-align: center;
 }
